@@ -1,0 +1,115 @@
+@media(max-width:1199.98px){
+    .bg-light{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .nav-item{
+        padding: 6px;
+    }
+    .nav-link i{
+        margin-right: 15px;
+    }
+    .fa-bars{
+        color: #11749e;
+        font-size: 26px;
+    }
+    .navbar-toggler{
+        outline: none;
+        border: none;
+    }
+    .blog-img{
+        height: 200px;
+    }
+}
+@media(max-width:991.98px){
+    .header-content h1{
+        font-size: 124px;
+    }
+    .header-content h3{
+        letter-spacing: 9.88px;
+    }
+    .page-text{
+        width: 100%;
+    }
+    .page-img{
+        width: 100%;
+    }
+    .page-1{
+        height: auto;
+    }
+    .page-2{
+        height: auto;
+    }
+    .feature-item span{
+        font-size: 12px;
+    }
+    .blog-img {
+        height: 280px;
+    }
+    .f-cont p{
+        font-size: 12px;
+    }
+}
+@media(max-width:767.98px){
+    .header-content{
+        /* padding: 20px; */
+    }
+    .header-content h1{
+        font-size: 97px;
+    }
+    .quick-item{
+        margin-bottom: 90px;
+        justify-content: center;
+    }
+    .quick{
+        padding-bottom: 40px;
+    }
+    .features{
+        text-align: center;
+    }
+    .feature-w{
+        width: 100% !important;
+        padding-left: 20px;
+    }
+    .feature-item span{
+        font-size: 15px;
+    }
+    .copyright{
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
+@media(max-width:575.98px){
+    .header-content h1{
+        font-size: 55px;
+    }
+    .header-content h3{
+        letter-spacing: 1.88px;
+    }
+    .page-text{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .blog-img img{
+        width: 70%;
+    }
+    .quick-item{
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+    .quick-icon{
+        margin: 0 auto 30px;
+
+    }
+    .page-text h5{
+        font-size: 23px;
+    }
+    .title{
+        font-size: 29px;
+    }
+    .feature-item span{
+        font-size: 12px;
+    }
+}
