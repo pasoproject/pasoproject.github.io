@@ -589,7 +589,7 @@ header {
 }
 
 .team-card {
-    padding-bottom: -100px;
+    padding-bottom: 100px;
     width: 100%;
     height: 391px;
     overflow: hidden;
