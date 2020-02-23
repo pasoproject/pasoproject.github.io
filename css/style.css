@@ -78,7 +78,9 @@ section {
     transform: translateX(-50%);
     text-transform: uppercase;
 }
-
+.logo{
+width:120px;
+}
 header {
     background: url(../images/header-bg.jpg) no-repeat center center/cover;
     padding-bottom: 109px;
