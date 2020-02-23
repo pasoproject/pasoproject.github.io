@@ -577,7 +577,9 @@ header {
     padding-bottom: 105px;
     position: relative;
 }
-
+.team .col-xl-3{
+    padding-bottom:50px;
+}
 .team img {
     width: 100%;
     transition: .5s;
