@@ -56,8 +56,8 @@ section {
 }
 
 .navbar-brand img {
-    width: 55px;
-    height: 120px;
+    width: 120px;
+    height: 55px;
     transition: 1.4s;
 }
 
